@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "id" : 1,
+      "titel": "cage store",
+      "imgs" : "../images/menu-1.png"
+    },
+
+    {
+      "id" : 2,
+      "titel": "flod cloes",
+      "imgs" : "../images/menu-2.png"
+    },
+
+    {
+      "id" : 3,
+      "titel": "cafes mynis",
+      "imgs" : "../images/menu-3.png" 
+    },
+    {
+      "id" : 4,
+      "titel": "hold gryo",
+      "imgs" : "../images/menu-4.png"
+    },
+
+    {
+      "id" : 5,
+      "titel": "cafess dff",
+      "imgs" : "../images/menu-5.png"
+    },
+
+    {
+      "id" : 6,
+      "titel": "modes code",
+      "imgs" : "../images/menu-6.png" 
+    }
+  ]
+}
